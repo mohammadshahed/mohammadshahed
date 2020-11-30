@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**mohammadshahed/mohammadshahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm #### Mohammad Shahuduzzaman, a self-taught programmer having expertise in modern front-end technologies and a deep interest in JavaScript. I love problem solving challenges. I desire to work in the software industry with a good learning environment to grow my skills to the next level.
 
 Here are some ideas to get you started:
 
@@ -12,5 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Programming lover
