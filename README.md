@@ -1,6 +1,6 @@
 ### Hi there 
 
-I'm <strong>Mohammad Shaheduzzaman</strong>, a self-taught programmer having expertise in modern <i>Frontend and Backend</i> technologies and a deep interest in JavaScript. I love problem solving challenges and always try to learn something new. I desire to work in the software industry with a good learning environment where i can show my skills and also to grow my skills to the next level.
+I'm <strong>Mohammad Shaheduzzaman</strong>, a self-taught programmer having expertise in modern <i>Frontend and Backend</i> technologies and a deep interest in JavaScript, React, Python, Django and Database. I love problem solving challenges and always try to learn something new. I desire to work in the software industry with a good learning environment where i can show my skills and also to grow my skills to the next level.
 <hr style="color:blue; font-size:1px">
 
 <ul>
