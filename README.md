@@ -4,14 +4,13 @@ I'm <strong>Mohammad Shaheduzzaman</strong>, a self-taught programmer having exp
 <hr>
 
 <ul>
-  <li>🔭 I’m currently working on <strong>React and python</strong></li>
+  <li>I’m currently working on <strong>React and python</strong></li>
   <li>I’m currently learning ... <strong>React-Redux, SQL, Oracle APEX</strong></li>
   <li>I’m looking for help with ... <strong>Oracle Database</strong></li>
   <li>Ask me about ... what i have learned</li>
 </ul>
-
+<hr style="color:green;">
 ### Skill
-<hr>
 <div>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a3d97a38601c215d653c7136d26fb50ede2a7a54cac5864e512f78d02d2078e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c2532302d6f72616e67652e7376673f267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/a3d97a38601c215d653c7136d26fb50ede2a7a54cac5864e512f78d02d2078e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c2532302d6f72616e67652e7376673f267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/html%20-orange.svg?&amp;style=for-the-badge" style="max-width:100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/dc4cd726f2f26f0d923df8c47f5a9a5e8fbd46d51137315591f896aa989ed1ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732532302d2532333030383566662e7376673f267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/dc4cd726f2f26f0d923df8c47f5a9a5e8fbd46d51137315591f896aa989ed1ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732532302d2532333030383566662e7376673f267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/css%20-%230085ff.svg?&amp;style=for-the-badge" style="max-width:100%;"></a>
