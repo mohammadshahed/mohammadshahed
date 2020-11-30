@@ -24,6 +24,14 @@ I'm <strong>Mohammad Shaheduzzaman</strong>, a self-taught programmer having exp
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/edcb54baa5edbe2b46368b1d4d0d8d77cb6cbbc5e869a87f5c86462b89588929/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6174657269616c25323075692532302d2532333238636566662e7376673f267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/edcb54baa5edbe2b46368b1d4d0d8d77cb6cbbc5e869a87f5c86462b89588929/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6174657269616c25323075692532302d2532333238636566662e7376673f267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/material%20ui%20-%2328ceff.svg?&amp;style=for-the-badge" style="max-width:100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/06529f1a1bf4588ed5ab2eafb6be1bbcbb94e671a5db4dd884cd0e3dd8d38e2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e676f64622532302d2532333638653536332e7376673f267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/06529f1a1bf4588ed5ab2eafb6be1bbcbb94e671a5db4dd884cd0e3dd8d38e2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e676f64622532302d2532333638653536332e7376673f267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/mongodb%20-%2368e563.svg?&amp;style=for-the-badge" style="max-width:100%;"></a> 
 
+### Connect with me:
+
+[<img align="left" alt="powerxit.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mdshahed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mdshahed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mdshahed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -41,3 +49,7 @@ I'm <strong>Mohammad Shaheduzzaman</strong>, a self-taught programmer having exp
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   
 
+[website]: https://powerxit.com
+[twitter]: https://twitter.com/m_shaheduzzaman
+[instagram]: https://instagram.com/mohammadshaheduzzamanshahed
+[linkedin]: https://linkedin.com/in/mohammed-shaheduzzaman-shahed
