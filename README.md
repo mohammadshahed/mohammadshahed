@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 I'm <strong>Mohammad Shaheduzzaman</strong>, a self-taught programmer having expertise in modern <i>Frontend and Backend</i> technologies and a deep interest in JavaScript. I love problem solving challenges and always try to learn something new. I desire to work in the software industry with a good learning environment where i can show my skills and also to grow my skills to the next level.
 <hr style="height:1px; font-size:1px">
@@ -11,7 +11,7 @@ I'm <strong>Mohammad Shaheduzzaman</strong>, a self-taught programmer having exp
 </ul>
 <hr style="height:1px; font-size:1px">
 
-### Skill
+### Skills
 
 
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a3d97a38601c215d653c7136d26fb50ede2a7a54cac5864e512f78d02d2078e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c2532302d6f72616e67652e7376673f267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/a3d97a38601c215d653c7136d26fb50ede2a7a54cac5864e512f78d02d2078e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c2532302d6f72616e67652e7376673f267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/html%20-orange.svg?&amp;style=for-the-badge" style="max-width:100%;"></a>
