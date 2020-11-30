@@ -3,11 +3,12 @@
 I'm <strong>Mohammad Shaheduzzaman</strong>, a self-taught programmer having expertise in modern front-end technologies and a deep interest in JavaScript. I love problem solving challenges and always try to learn something new. I desire to work in the software industry with a good learning environment to grow my skills to the next level.
 <hr>
 
-🔭 I’m currently working on <strong>React and python</strong>
-🌱 I’m currently learning ... <strong>React-Redux, SQL, Oracle APEX</strong>
-🤔 I’m looking for help with ... <strong>Oracle Database</strong>
-💬 Ask me about ... what i have learned
-⚡ Fun fact: Programming lover | Self taught 
+<ul>
+  <li>🔭 I’m currently working on <strong>React and python</strong></li>
+  <li>I’m currently learning ... <strong>React-Redux, SQL, Oracle APEX</strong></li>
+  <li>I’m looking for help with ... <strong>Oracle Database</strong></li>
+  <li>Ask me about ... what i have learned</li>
+</ul>
 
 ### Skill
 <hr>
