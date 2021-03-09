@@ -5,8 +5,7 @@ I'm <strong>Mohammad Shaheduzzaman</strong>, a self-taught programmer having exp
 
 <ul>
   <li>I’m currently working on <strong>React, React Redux and python | Django</strong></li>
-  <li>I’m familiar with and learning deep ... <strong>SQL, Oracle APEX</strong></li>
-  <li>I’m looking for help with ... <strong>Oracle Database</strong></li>
+  <li>I’m familiar with and learning deep ... <strong>SQL, Oracle APEX, Oracle Database</strong></li>
   <li>Ask me about ... what i have learned</li>
 </ul>
 <hr style="height:1px; font-size:1px">
