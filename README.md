@@ -1,11 +1,11 @@
-### Hi there 
+### Hi 
 
 I'm <strong>Mohammad Shaheduzzaman</strong>, a self-taught programmer having expertise in modern <i>Frontend and Backend</i> technologies and a deep interest in JavaScript, React, Python, Django and Database. I am good at solving problems and always try to learn something new. Currently, I am seeking a position with a stable Software Organization with room for growth and Opportunity for advancement.
 <hr style="color:blue; font-size:1px">
 
 <ul>
   <li>I'm currently working on <strong>SAP ABAP at Bashundhara Group</strong></li>
-  <li>Learned <strong>React, React Redux and python | Django</strong></li>
+  <li>Learned <strong>React, React Redux and python | Django | Django REST Framework (API) | Database: MongoDB, MySQL</strong></li>
   <li>I’m familiar with and learning deep ... <strong>SQL, Oracle APEX, Oracle Database</strong></li>
   <li>Ask me about ... what i have learned</li>
 </ul>
