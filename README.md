@@ -1,6 +1,23 @@
 ### Hi 
 
-I'm <strong>Mohammad Shaheduzzaman</strong>, a self-taught programmer having expertise in modern <i>Frontend and Backend</i> technologies and a deep interest in JavaScript, React, Python, Django and Database. I am good at solving problems and always try to learn something new. Currently, I am seeking a position with a stable Organization with room for growth and Opportunity for advancement.
+I'm <strong>Mohammad Shaheduzzaman</strong>, a self-taught programmer having expertise in modern <i>Frontend and Backend</i> technologies and a deep interest in JavaScript, React, Python, Django and Database. I am good at solving problems and always try to learn something new. Currently, I am seeking a position with a stable Organization with room for growth and Opportunity for advancement. 
+Expertise in SAP ABAP | AMDP | RAP | CAP | NEXTjs | Fiori | SAPUI5 
+► SAP Development experience: 5 years+ (2021-Present)  and  Network Engineer-CCNA: 2 years+ (2018-2020)
+
+► SAP ABAP Programmer :       
+[  Transforming Business Logic to Technical Implementation  ]  
+[  Leveraging AI to accelerate complex ABAP development and deliver high-quality solutions faster  ]   
+[  Integration - SAP CPI (Cloud Platform integration) | RAP (RESTful Application Programming) | CDS Views | OData APIs | AMDP (ABAP Managed Database Procedures for high-performance SQLScript) | Fiori   ]    
+[  SAP BTP | CAP (Cloud Application Programming)  ]    
+[  Reports, Smartforms  |  Module POOL Programming  ]        
+[  Develop functionality to consume third-party APIs and store the response data into SAP  ]        
+[  Enhancement:  BADI, User Exit, Explicit/Implicit Enhancement spots, Customer Exit, Screen Exit  ]      
+[  Analytics : SAC (SAP Analytics Cloud) – Live Data Connections & Stories  ]
+
+► Functional Activity:
+· Leading SAP Reimplementation Project with SCM department, aligning ABAP and business process improvements. 
+· Partnering with functional and business teams to gather requirements, manage testing cycles, and ensure seamless go-live execution.
+· Overseeing pilot runs, UAT, and securing business sign-off across implementation phases.   
 <hr style="color:blue; font-size:1px">
 
 <ul>
