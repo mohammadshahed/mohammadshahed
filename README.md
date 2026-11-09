@@ -21,8 +21,8 @@ Expertise in SAP ABAP | AMDP | RAP | CAP | NEXTjs | Fiori | SAPUI5
 · Overseeing pilot runs, UAT, and securing business sign-off across implementation phases.   
 <hr style="color:blue; font-size:1px">
 
+<strong>Others Programming: </strong>
 <ul>
-  <li><strong>Others Programming: </strong></li>
   <li><strong>React, React Redux and python | Django | Django REST Framework (API) | Database: MongoDB, MySQL, PostgreSQL</strong></li>
 </ul>
 <hr style="height:1px; font-size:1px">
