@@ -22,10 +22,8 @@ Expertise in SAP ABAP | AMDP | RAP | CAP | NEXTjs | Fiori | SAPUI5
 <hr style="color:blue; font-size:1px">
 
 <ul>
-  <li>Currently, i'm expertise on - <strong>SAP ABAP Programmer at Bashundhara Group</strong></li>
-  <li>Learned <strong>React, React Redux and python | Django | Django REST Framework (API) | Database: MongoDB, MySQL</strong></li>
-  <li>I’m familiar with and learning deep ... <strong>SQL, Oracle APEX, Oracle Database</strong></li>
-  <li>Ask me about ... what i have learned</li>
+  <li><strong>Others Programming: </strong></li>
+  <li><strong>React, React Redux and python | Django | Django REST Framework (API) | Database: MongoDB, MySQL, PostgreSQL</strong></li>
 </ul>
 <hr style="height:1px; font-size:1px">
 
