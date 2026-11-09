@@ -3,6 +3,7 @@
 I'm <strong>Mohammad Shaheduzzaman</strong>, a self-taught programmer having expertise in modern <i>Frontend and Backend</i> technologies. 
 
 Expertise in SAP ABAP | AMDP | RAP | CAP | NEXTjs | Fiori | SAPUI5 
+
 ► SAP Development experience: 5 years+ (2021-Present)  and  Network Engineer-CCNA: 2 years+ (2018-2020)
 
 ► SAP ABAP Programmer :       
@@ -23,7 +24,7 @@ Expertise in SAP ABAP | AMDP | RAP | CAP | NEXTjs | Fiori | SAPUI5
 
 <strong>Others Programming: </strong>
 <ul>
-  <li><strong>React, React Redux and python | Django | Django REST Framework (API) | Database: MongoDB, MySQL, PostgreSQL</strong></li>
+  <li><strong>NEXTjs, React, React Redux and python | Django | Django REST Framework (API) | Database: MongoDB, MySQL, PostgreSQL</strong></li>
 </ul>
 <hr style="height:1px; font-size:1px">
 
