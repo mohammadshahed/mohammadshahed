@@ -1,6 +1,7 @@
 ### Hi 
 
-I'm <strong>Mohammad Shaheduzzaman</strong>, a self-taught programmer having expertise in modern <i>Frontend and Backend</i> technologies and a deep interest in JavaScript, React, Python, Django and Database. I am good at solving problems and always try to learn something new. Currently, I am seeking a position with a stable Organization with room for growth and Opportunity for advancement. 
+I'm <strong>Mohammad Shaheduzzaman</strong>, a self-taught programmer having expertise in modern <i>Frontend and Backend</i> technologies. 
+
 Expertise in SAP ABAP | AMDP | RAP | CAP | NEXTjs | Fiori | SAPUI5 
 ► SAP Development experience: 5 years+ (2021-Present)  and  Network Engineer-CCNA: 2 years+ (2018-2020)
 
